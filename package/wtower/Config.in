@@ -1,0 +1,5 @@
+config BR2_PACKAGE_WTOWER
+	bool "wtower"
+	help
+	  Watertower automation scripts
+
